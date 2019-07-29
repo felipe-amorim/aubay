@@ -1,0 +1,4 @@
+target/
+.idea/
+fabrica_automacao.iml
+src/test/resources/jenkins/
