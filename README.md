@@ -18,3 +18,5 @@ O projeto segue considerando os paradigmas de programação:
 
 
 O projeto gera como artefato final, um relatório html no diretório: src\test\resources\jenkins\anexos\Relatorio_detalhado_testes.html
+
+As respostas das questões SQL estão respondidas no arquivo init.sql
