@@ -9,8 +9,12 @@ O comando maven para a execução do projeto é: mvn clean test -DfailIfNoTests=
 O projeto segue considerando os paradigmas de programação:
 
 -Page objects
+
 -BDD
+
 -Hierarquia (Classe executora extendendo classe Web)
+
 -Abstração (Classe web com metodos generalizados)
+
 
 O projeto gera como artefato final, um relatório html no diretório: src\test\resources\jenkins\anexos\Relatorio_detalhado_testes.html
